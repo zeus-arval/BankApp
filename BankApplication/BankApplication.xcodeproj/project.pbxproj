@@ -7,22 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A55D64CB283050A100187F24 /* BankApplicationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D64CA283050A100187F24 /* BankApplicationApp.swift */; };
-		A55D64CD283050A100187F24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D64CC283050A100187F24 /* ContentView.swift */; };
-		A55D64CF283050A200187F24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A55D64CE283050A200187F24 /* Assets.xcassets */; };
-		A55D64D2283050A200187F24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A55D64D1283050A200187F24 /* Preview Assets.xcassets */; };
+		A55D64E528305C4000187F24 /* BankApplicationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D64E428305C4000187F24 /* BankApplicationApp.swift */; };
+		A55D64E728305C4000187F24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A55D64E628305C4000187F24 /* ContentView.swift */; };
+		A55D64E928305C4100187F24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A55D64E828305C4100187F24 /* Assets.xcassets */; };
+		A55D64EC28305C4100187F24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A55D64EB28305C4100187F24 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A55D64C7283050A100187F24 /* BankApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A55D64CA283050A100187F24 /* BankApplicationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankApplicationApp.swift; sourceTree = "<group>"; };
-		A55D64CC283050A100187F24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		A55D64CE283050A200187F24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		A55D64D1283050A200187F24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A55D64E128305C4000187F24 /* BankApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BankApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A55D64E428305C4000187F24 /* BankApplicationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BankApplicationApp.swift; sourceTree = "<group>"; };
+		A55D64E628305C4000187F24 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		A55D64E828305C4100187F24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A55D64EB28305C4100187F24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		A55D64C4283050A100187F24 /* Frameworks */ = {
+		A55D64DE28305C4000187F24 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -32,37 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		A55D64BE283050A100187F24 = {
+		A55D64D828305C4000187F24 = {
 			isa = PBXGroup;
 			children = (
-				A55D64C9283050A100187F24 /* BankApplication */,
-				A55D64C8283050A100187F24 /* Products */,
+				A55D64E328305C4000187F24 /* BankApplication */,
+				A55D64E228305C4000187F24 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		A55D64C8283050A100187F24 /* Products */ = {
+		A55D64E228305C4000187F24 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A55D64C7283050A100187F24 /* BankApplication.app */,
+				A55D64E128305C4000187F24 /* BankApplication.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A55D64C9283050A100187F24 /* BankApplication */ = {
+		A55D64E328305C4000187F24 /* BankApplication */ = {
 			isa = PBXGroup;
 			children = (
-				A55D64CA283050A100187F24 /* BankApplicationApp.swift */,
-				A55D64CC283050A100187F24 /* ContentView.swift */,
-				A55D64CE283050A200187F24 /* Assets.xcassets */,
-				A55D64D0283050A200187F24 /* Preview Content */,
+				A55D64E428305C4000187F24 /* BankApplicationApp.swift */,
+				A55D64E628305C4000187F24 /* ContentView.swift */,
+				A55D64E828305C4100187F24 /* Assets.xcassets */,
+				A55D64EA28305C4100187F24 /* Preview Content */,
 			);
 			path = BankApplication;
 			sourceTree = "<group>";
 		};
-		A55D64D0283050A200187F24 /* Preview Content */ = {
+		A55D64EA28305C4100187F24 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				A55D64D1283050A200187F24 /* Preview Assets.xcassets */,
+				A55D64EB28305C4100187F24 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -70,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A55D64C6283050A100187F24 /* BankApplication */ = {
+		A55D64E028305C4000187F24 /* BankApplication */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A55D64D5283050A200187F24 /* Build configuration list for PBXNativeTarget "BankApplication" */;
+			buildConfigurationList = A55D64EF28305C4100187F24 /* Build configuration list for PBXNativeTarget "BankApplication" */;
 			buildPhases = (
-				A55D64C3283050A100187F24 /* Sources */,
-				A55D64C4283050A100187F24 /* Frameworks */,
-				A55D64C5283050A100187F24 /* Resources */,
+				A55D64DD28305C4000187F24 /* Sources */,
+				A55D64DE28305C4000187F24 /* Frameworks */,
+				A55D64DF28305C4000187F24 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -84,25 +84,25 @@
 			);
 			name = BankApplication;
 			productName = BankApplication;
-			productReference = A55D64C7283050A100187F24 /* BankApplication.app */;
+			productReference = A55D64E128305C4000187F24 /* BankApplication.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		A55D64BF283050A100187F24 /* Project object */ = {
+		A55D64D928305C4000187F24 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
 				LastUpgradeCheck = 1330;
 				TargetAttributes = {
-					A55D64C6283050A100187F24 = {
+					A55D64E028305C4000187F24 = {
 						CreatedOnToolsVersion = 13.3.1;
 					};
 				};
 			};
-			buildConfigurationList = A55D64C2283050A100187F24 /* Build configuration list for PBXProject "BankApplication" */;
+			buildConfigurationList = A55D64DC28305C4000187F24 /* Build configuration list for PBXProject "BankApplication" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = A55D64BE283050A100187F24;
-			productRefGroup = A55D64C8283050A100187F24 /* Products */;
+			mainGroup = A55D64D828305C4000187F24;
+			productRefGroup = A55D64E228305C4000187F24 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A55D64C6283050A100187F24 /* BankApplication */,
+				A55D64E028305C4000187F24 /* BankApplication */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		A55D64C5283050A100187F24 /* Resources */ = {
+		A55D64DF28305C4000187F24 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A55D64D2283050A200187F24 /* Preview Assets.xcassets in Resources */,
-				A55D64CF283050A200187F24 /* Assets.xcassets in Resources */,
+				A55D64EC28305C4100187F24 /* Preview Assets.xcassets in Resources */,
+				A55D64E928305C4100187F24 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		A55D64C3283050A100187F24 /* Sources */ = {
+		A55D64DD28305C4000187F24 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A55D64CD283050A100187F24 /* ContentView.swift in Sources */,
-				A55D64CB283050A100187F24 /* BankApplicationApp.swift in Sources */,
+				A55D64E728305C4000187F24 /* ContentView.swift in Sources */,
+				A55D64E528305C4000187F24 /* BankApplicationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		A55D64D3283050A200187F24 /* Debug */ = {
+		A55D64ED28305C4100187F24 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +205,7 @@
 			};
 			name = Debug;
 		};
-		A55D64D4283050A200187F24 /* Release */ = {
+		A55D64EE28305C4100187F24 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,7 +259,7 @@
 			};
 			name = Release;
 		};
-		A55D64D6283050A200187F24 /* Debug */ = {
+		A55D64F028305C4100187F24 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -288,7 +288,7 @@
 			};
 			name = Debug;
 		};
-		A55D64D7283050A200187F24 /* Release */ = {
+		A55D64F128305C4100187F24 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -320,25 +320,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A55D64C2283050A100187F24 /* Build configuration list for PBXProject "BankApplication" */ = {
+		A55D64DC28305C4000187F24 /* Build configuration list for PBXProject "BankApplication" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A55D64D3283050A200187F24 /* Debug */,
-				A55D64D4283050A200187F24 /* Release */,
+				A55D64ED28305C4100187F24 /* Debug */,
+				A55D64EE28305C4100187F24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A55D64D5283050A200187F24 /* Build configuration list for PBXNativeTarget "BankApplication" */ = {
+		A55D64EF28305C4100187F24 /* Build configuration list for PBXNativeTarget "BankApplication" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A55D64D6283050A200187F24 /* Debug */,
-				A55D64D7283050A200187F24 /* Release */,
+				A55D64F028305C4100187F24 /* Debug */,
+				A55D64F128305C4100187F24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = A55D64BF283050A100187F24 /* Project object */;
+	rootObject = A55D64D928305C4000187F24 /* Project object */;
 }
