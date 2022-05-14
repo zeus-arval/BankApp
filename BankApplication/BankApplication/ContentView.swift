@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  BankApp
+//  BankApplication
 //
-//  Created by Артур Валдна on 14.05.2022.
+//  Created by Артур Валдна on 15.05.2022.
 //
 
 import SwiftUI
